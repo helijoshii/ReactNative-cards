@@ -34,7 +34,3 @@ Make sure you have the following tools installed on your system:
     ```
 2. Ensure that your Android emulator is running or that your physical device is connected.
 
-## APK Download
-You can download the APK of the Buzz app from the latest release here:
-
-[Download Buzz APK](https://github.com/helijoshii/Buzz/releases/tag/v1.0.0)
